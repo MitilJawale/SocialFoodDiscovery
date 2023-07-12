@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SocialFoodDiscovery/static/css/main.ffb172c5.css",
+    "main.js": "/SocialFoodDiscovery/static/js/main.77422b5a.js",
+    "static/js/787.544221ff.chunk.js": "/SocialFoodDiscovery/static/js/787.544221ff.chunk.js",
+    "index.html": "/SocialFoodDiscovery/index.html",
+    "main.ffb172c5.css.map": "/SocialFoodDiscovery/static/css/main.ffb172c5.css.map",
+    "main.77422b5a.js.map": "/SocialFoodDiscovery/static/js/main.77422b5a.js.map",
+    "787.544221ff.chunk.js.map": "/SocialFoodDiscovery/static/js/787.544221ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb172c5.css",
+    "static/js/main.77422b5a.js"
+  ]
+}
